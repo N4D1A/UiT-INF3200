@@ -1,0 +1,1 @@
+pkill -u $USER -f "ssh -f compute-*"
